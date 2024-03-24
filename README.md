@@ -29,6 +29,14 @@
 <p align="right"><img align="right" src="https://profile-counter.glitch.me/{DevdBrenno}/count.svg" /></p> 
 <br></div>
 -->
+##
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F2FD&size=35&center=true&width=1000&lines=Contatos)](https://git.io/typing-svg)
+<div align="center"> 
+  <a href = "mailto:davidbrenno0101@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=DarkRed" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/david-brenno-93492b234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://instagram.com/_davidbrenno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=268CAA&section=footer&reversal=false&textBg=false&fontColor=D9F2FD"/>
 
 
