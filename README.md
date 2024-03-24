@@ -21,7 +21,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevdBrenno&bg_color=87ceeb&color=D9F2FD&line=4169ff&point=6495ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevdBrenno&bg_color=845EC2&color=D9F2FD&line=268CAA&point=D9F2FD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 <div align="right">
