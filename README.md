@@ -7,18 +7,20 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevdBrenno&layout=compact&hide_border=true&title_color=D9F2FD&text_color=D9F2FD&bg_color=845EC2" />
 </div>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F2FD&size=20&width=1000&lines=Habilidades:)](https://git.io/typing-svg)
+<!--### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F2FD&size=20&width=1000&lines=Habilidades:)](https://git.io/typing-svg)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)-->
 
 
 
-###  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F2FD&size=20&width=1000&lines=Estudando+atualmente:)](https://git.io/typing-svg)
+###  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F2FD&size=20&width=1000&lines=Conhecimento+/+Estudos:)](https://git.io/typing-svg)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevdBrenno&bg_color=845EC2&color=D9F2FD&line=268CAA&point=D9F2FD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
