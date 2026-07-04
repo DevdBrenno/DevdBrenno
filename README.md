@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=268CAA&text=Seja%20bem-vindo(a)!&section=header&reversal=true&textBg=false&fontColor=D9F2FD"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=14571F&text=Seja%20bem-vindo(a)!&section=header&reversal=true&textBg=false&fontColor=D9F2FD"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F2FD&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+David+Brenno;Tenho+22+anos;Estou+Graduando+Sistemas+de+Informações;Gosto+de+arriscar+em+alguns+projetos+haha;É+um+prazer+recebê-lo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F2FD&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+David+Brenno;Tenho+23+anos;Estou+no+7°+Semestre+no+Curso+ de+Sistemas+de+Informações;É+um+prazer+recebê-lo(a)!)](https://git.io/typing-svg)
 
 
 <div align="center">  
