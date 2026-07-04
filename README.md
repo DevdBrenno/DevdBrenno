@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=14571F&text=Seja%20bem-vindo(a)!&section=header&reversal=true&textBg=false&fontColor=D9F2FD"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F2FD&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+David+Brenno;Tenho+23+anos;Estou+no+7°+Semestre+no+Curso+ de+Sistemas+de+Informações;É+um+prazer+recebê-lo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F2FD&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+David+Brenno;Tenho+23+anos;Estou+Cursando+Sistemas+de+Informações;É+um+prazer+recebê-lo(a)!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevdBrenno&show_icons=true&count_private=true&hide_border=true&title_color=D9F2FD&icon_color=268CAA&text_color=D9F2FD&bg_color=845EC2" alt="David Brenno github stats" /> 
