@@ -36,6 +36,6 @@
   <a href="https://instagram.com/_davidbrenno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=268CAA&section=footer&reversal=false&textBg=false&fontColor=14571F"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=14571F&section=footer&reversal=false&textBg=false&fontColor=14571F"/>
 
 
